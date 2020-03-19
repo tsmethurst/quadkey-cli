@@ -2,6 +2,8 @@
 
 Very quick little CLI tool for converting lat/long coordinates into quadkeys.
 
+Based on [this code](https://docs.microsoft.com/en-us/bingmaps/articles/bing-maps-tile-system).
+
 ## Build
 
 ```shell
