@@ -19,3 +19,5 @@ Output:
 ```text
 1202021230301202
 ```
+
+Output help text with `quadkey --help`.
